@@ -2,8 +2,8 @@
 
 ## Course Information
 * **Course Name:** Machine Learning
-* **Course Code:** CO3013
-* **Semester:** Semester I
+* **Course Code:** CO3117
+* **Semester:** Semester 252
 * **Academic Year:** 2025 - 2026
 * **Institution:** Ho Chi Minh City University of Technology (HCMUT)
 * **Instructor:** Truong Vinh Lan
@@ -55,7 +55,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn tensorflow joblib
 
 ## Links
 * [Open In Colab](https://colab.research.google.com/drive/1BtPxZyhX83796O-LV8zSvcojC6js6_AJ?usp=sharing)
-* [PDF Report](reports/ML_Assignment_Report.pdf)
+* [PDF Report](reports/Group6_CC01_HCMUT.pdf)
 
 ## Configuration & Hyperparameters
 
